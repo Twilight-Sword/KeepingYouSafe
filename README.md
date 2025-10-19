@@ -1,8 +1,8 @@
 Strawpage:
-https://freminet-and-pers.straw.page
+https://redrosetyrant.straw.page
 
 Carrd:
-https://freminet-and-pers.carrd.co
+https://red-rose-tyrant.carrd.co
 
 BlueSky:
 https://bsky.app/profile/kaveh8786.bsky.social
