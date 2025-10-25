@@ -1,8 +1,8 @@
 Strawpage:
-https://redrosetyrant.straw.page
+https://twilight-sword.straw.page
 
 Carrd:
-https://red-rose-tyrant.carrd.co
+https://tw1light-sw0rd.carrd.co
 
 BlueSky:
 https://bsky.app/profile/kaveh8786.bsky.social
